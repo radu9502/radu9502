@@ -1,7 +1,7 @@
 Personal projects: 
 - https://github.com/radu9502/TutorWebApp-Asp.Net-MVC
 
-A few projects that I have created during my learning process:
+A few assignments that I have finished my learning process:
 - https://github.com/radu9502/ASP.NET-MVC-Vechicle-Dealership-platform
 - https://github.com/radu9502/WPF-bidding-platform
 - https://github.com/radu9502/Ado.Net-practice
